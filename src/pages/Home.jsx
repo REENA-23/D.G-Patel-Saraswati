@@ -5,7 +5,7 @@ import CommitmentSection from "../home/CommitmentSection";
 import VisionSection from "../home/VisionSection";
 import AcademicCalendarSection from "../home/AcademicCalendarSection";
 import GallerySection from "../home/GallerySection";
-import InquirySection from "../home/INquirySection";
+import InquirySection from "../home/InquirySection";
 import Footer from "../home/Footer";
 
 
