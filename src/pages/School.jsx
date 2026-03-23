@@ -2,7 +2,7 @@ import Header from "../home/Header";
 import Footer from "../home/Footer";
 import SchoolCultureSection from "../school/SchoolCultureSection";
 import GallerySection from "../home/GallerySection";
-import InquirySection from "../home/INquirySection";
+import InquirySection from "../home/InquirySection";
 import OurUniqueCultureSection from "../school/OurUniqueCultureSection";
 
 function School() {
